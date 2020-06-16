@@ -1,5 +1,5 @@
 {
-    "name": "ashhitch/wp-graphql-yoast-seo",
+    "name": "aibesorg/wp-graphql-yoast-seo",
     "description": "Query Yoast SEO data with wp-graphql",
     "type": "wordpress-plugin",
     "license": "GPL-3.0-or-later",
